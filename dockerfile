@@ -1,2 +1,2 @@
 FROM ubuntu
-ADD ./var/www/html
+Run cp index.html /var/www/html
